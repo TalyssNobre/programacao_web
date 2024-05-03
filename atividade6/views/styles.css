@@ -1,0 +1,10 @@
+body {
+    background-color: #5cb3ff; 
+  }
+  
+  .container mt-5 center-form {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+  }
